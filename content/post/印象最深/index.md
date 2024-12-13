@@ -2,7 +2,7 @@
 title: "印象最深"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
+date: 2022-11-11 00:00:00+0000
 image: yinxiangzuishen.jpg
 categories:
     - little wu

@@ -2,7 +2,7 @@
 title: "依靠后背"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
+date: 2024-07-14 00:00:00+0000
 image: yikaohoubei.jpg
 categories:
     - little wu

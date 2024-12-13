@@ -2,7 +2,7 @@
 title: "以后的生活"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
+date: 2022-05-19 00:00:00+0000
 image: yihoushenghuo.jpg
 categories:
     - little wu

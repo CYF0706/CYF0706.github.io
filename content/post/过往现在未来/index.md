@@ -2,8 +2,8 @@
 title: "过往现在未来"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
-image: biye1.jpg
+date: 2024-05-19 00:00:00+0000
+image: guoqu.jpg
 categories:
     - little wu
 tags:

@@ -2,7 +2,7 @@
 title: "自由"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
+date: 2024-07-12 00:00:00+0000
 image: freedom.jpg
 categories:
     - little wu
