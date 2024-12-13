@@ -3,7 +3,8 @@ title: "童真"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
 date: 2024-06-14 00:00:00+0000
-image: biye1.jpg
+image: tongzhen.jpg
+image: yinxiangzuishen.jpg
 categories:
     - little wu
 tags:
@@ -11,7 +12,9 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-那是一个炎热的夏天，你的笑容定格在这张照片里。两个麻花辫俏皮地垂在肩上，发夹简单却温暖，额头上的卡通贴纸更是让人忍不住多看几眼。这是一张让人一见就觉得心头一软的照片，仿佛一下子就把人拉回到了那个无忧无虑的时光，那种童真的感觉，真的很美好。
+
+
+那是一个炎热的夏天，你的两个麻花辫俏皮地垂在肩上，发夹简单却温暖，额头上的卡通贴纸更是让人忍不住多看几眼。这是一张让人一见就觉得心头一软的照片，仿佛一下子就把人拉回到了那个无忧无虑的时光，那种童真的感觉，真的很美好。
 
 我记得那时候，你特别爱笑。无论是聊到有趣的事情，还是看到小动物撒欢儿，你总能笑得那么自然，就像这张照片里的样子一样，甜甜的，毫无保留。那时候的你，眼睛里总是带着希望和憧憬，觉得未来一定是明亮的，一切都能按照自己期望的样子去发展。可是，现在的你，慢慢开始变得“现实”了。
 

@@ -3,7 +3,7 @@ title: "小动物小生命"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
 date: 2024-06-14 00:00:00+0000
-image: biye1.jpg
+image: xiaodongwu.jpg
 categories:
     - little wu
 tags:
