@@ -5,9 +5,9 @@ description: Welcome to Hugo Theme Stack
 date: 2024-06-14 00:00:00+0000
 image: biye1.jpg
 categories:
-    - Example Category
+    - little wu
 tags:
-    - Example Tag
+    - my love
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
