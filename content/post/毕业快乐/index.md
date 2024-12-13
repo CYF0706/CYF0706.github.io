@@ -2,8 +2,8 @@
 title: "毕业快乐"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: biye.jpg
+date: 20224-06-14 00:00:00+0000
+image: biye1.jpg
 categories:
     - Example Category
 tags:
@@ -40,4 +40,4 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 哈哈哈哈哈哈，好像在毕业的这里说这种晦气话不太好，但是我知道，就算我在这里说的天花乱坠，乖乖在心里也会想到这些不好的东西，所以我索性就给他全部说出来啦
 
-所以我能给的保证就是我会一直在你的身边的，无论是那种情况，我们都会一起面对的。
+所以我能给的保证就是我会一直在你的身边的，无论是哪种情况，我们都会一起面对
