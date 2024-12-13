@@ -2,7 +2,7 @@
 title: "毕业快乐"
 description: Welcome to Hugo Theme Stack
 # slug: hello-world
-date: 20224-06-14 00:00:00+0000
+date: 2024-06-14 00:00:00+0000
 image: biye1.jpg
 categories:
     - Example Category
