@@ -4,7 +4,7 @@ description: Welcome to Hugo Theme Stack
 # slug: hello-world
 date: 2024-06-14 00:00:00+0000
 image: tongzhen.jpg
-image: yinxiangzuishen.jpg
+# image: yinxiangzuishen.jpg
 categories:
     - little wu
 tags:
