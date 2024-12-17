@@ -1,6 +1,6 @@
 ---
 title: "自由"
-description: Welcome to Hugo Theme Stack
+description: free for forever
 # slug: hello-world
 date: 2024-07-12 00:00:00+0000
 image: freedom.jpg
