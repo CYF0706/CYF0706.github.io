@@ -1,6 +1,6 @@
 ---
 title: "自由"
-description: 假如你的心是狂野的鸟，我希望她在我的眼里找到属于她的天空
+description: Welcome to Hugo Theme Stack
 # slug: hello-world
 date: 2024-07-12 00:00:00+0000
 image: freedom.jpg
