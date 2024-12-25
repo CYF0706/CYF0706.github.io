@@ -2,7 +2,7 @@
 title: "毕业快乐"
 description: 毕业是告别也是起航，愿我们怀揣初心奔向远方，用青春的笑容点亮未来的每一个梦想。
 # slug: hello-world
-date: 2024-06-14 00:00:00+000
+date: 2024-06-14 00:00:00+0000
 image: biye1.jpg
 categories:
     - little wu
