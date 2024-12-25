@@ -1,8 +1,8 @@
 ---
 title: "毕业快乐"
-description: Welcome to Hugo Theme Stack
+description: 毕业是告别也是起航，愿我们怀揣初心奔向远方，用青春的笑容点亮未来的每一个梦想。
 # slug: hello-world
-date: 2024-06-14 00:00:00+0000
+date: 2024-06-14 00:00:00+000
 image: biye1.jpg
 categories:
     - little wu
@@ -10,7 +10,6 @@ tags:
     - my love
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-
 
 阳光洒在你的学士服上，那一抹流光，像岁月亲手为你织就的勋章，也仿佛在诉说属于你的骄傲与希望。你站在此刻，人生的一段旅途已然完结，手握昨日的努力与坚持，而前方，是未知的星辰大海，是无限的可能性。站在你身旁，我的目光追随着你，心中既是欣喜，又满怀柔情。回想一路走来的点滴，你从青涩走向成熟，从求知者化作开拓者，而我有幸见证这一切，更渴望在未来的每一段旅途中，成为你不可或缺的同行者。
 

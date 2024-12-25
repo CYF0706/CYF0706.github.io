@@ -1,6 +1,6 @@
 ---
 title: "小动物小生命"
-description: Welcome to Hugo Theme Stack
+description: 小动物,小生命，如同微光闪烁的星辰，用柔软与纯真，点亮了人心最柔软的角落。
 # slug: hello-world
 date: 2024-05-29 00:00:00+0000
 image: xiaodongwu.jpg

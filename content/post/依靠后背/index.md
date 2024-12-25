@@ -1,6 +1,6 @@
 ---
 title: "依靠后背"
-description: Welcome to Hugo Theme Stack
+description: 有时候，最温暖的安全感，不是紧握双手，而是轻轻靠在彼此的背上，共同抵挡世界的风雨。
 # slug: hello-world
 date: 2024-07-14 00:00:00+0000
 image: yikaohoubei.jpg

@@ -1,6 +1,6 @@
 ---
 title: "童真"
-description: Welcome to Hugo Theme Stack
+description: 童真是心底的一汪清泉，透过它，世界总是纯净无瑕，连风都带着甜美的味道。
 # slug: hello-world
 date: 2024-08-02 00:00:00+0000
 image: tongzhen.jpg

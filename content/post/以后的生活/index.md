@@ -1,6 +1,6 @@
 ---
 title: "以后的生活"
-description: Welcome to Hugo Theme Stack
+description: 以后的生活如同一首未完成的诗，充满未知的韵脚，每一步都是通往美好未来的勇敢书写。
 # slug: hello-world
 date: 2022-05-19 00:00:00+0000
 image: yihoushenghuo.jpg

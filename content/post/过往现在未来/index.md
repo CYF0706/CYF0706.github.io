@@ -1,6 +1,6 @@
 ---
 title: "过往现在未来"
-description: Welcome to Hugo Theme Stack
+description: 过往是岁月写下的诗句，现在是手中紧握的画笔，未来是未曾落笔的画卷，一切连成生命最动人的篇章。
 # slug: hello-world
 date: 2024-05-19 00:00:00+0000
 image: guoqu.jpg

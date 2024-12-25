@@ -1,6 +1,6 @@
 ---
 title: "自信强大"
-description: Welcome to Hugo Theme Stack
+description: “自信是灵魂深处的光，它让我们在风雨中昂首，在荆棘中前行，强大而无畏。”
 # slug: hello-world
 date: 2024-08-02 00:00:00+0000
 image: zixinqiangda.jpg

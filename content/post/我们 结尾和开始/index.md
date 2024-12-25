@@ -1,6 +1,6 @@
 ---
 title: "我们 结束和开始"
-description: Welcome to Hugo Theme Stack
+description: 这里的结束不是终点，而是另一个崭新开始的序章，携着过往的深情，迎接未来的无限可能。
 # slug: hello-world
 date: 2023-02-23 00:00:00+0000
 image: women.jpg

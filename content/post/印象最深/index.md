@@ -1,6 +1,6 @@
 ---
 title: "印象最深"
-description: Welcome to Hugo Theme Stack
+description: 印象最深的画面，总在心底生根发芽，无论时光如何流转，它都会以独特的方式，永远鲜活。
 # slug: hello-world
 date: 2022-11-11 00:00:00+0000
 image: yinxiangzuishen.jpg
